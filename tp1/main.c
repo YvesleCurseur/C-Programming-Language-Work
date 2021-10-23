@@ -30,7 +30,7 @@ int main()
     retenue = retenuecss+retenueimpots;
     printf("Les retenues sont de: %0.f Fr\n\n",retenue);
 
-    //3-Indemnités
+    //3-Indemnitï¿½s
     indemnites=totalenfant+totalanci;
     printf("Les indemnites sont de: %0.f Fr\n\n",indemnites);
 
@@ -39,6 +39,12 @@ int main()
     printf("Votre salaire net est de: %0.lf Fr\n",salairenet);
 }
 
-
-
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/
 

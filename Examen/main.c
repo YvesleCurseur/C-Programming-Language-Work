@@ -37,7 +37,7 @@ int main()
     /*int nbrkm, tardi, taress, nbrj;
     printf("Entrer la duree de votre location (Nombre de jours):");
     scanf("%d",&nbrj);
-    printf("Entrer le nombre de kilomètres à parcourir :");
+    printf("Entrer le nombre de kilomï¿½tres ï¿½ parcourir :");
     scanf("%d",&nbrkm);
     tardi=((nbrkm*60)+(25000*nbrj));
     taress=((nbrkm*90)+(20000*nbrj));
@@ -52,3 +52,12 @@ int main()
     }*/
     return 0;
 }
+
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/

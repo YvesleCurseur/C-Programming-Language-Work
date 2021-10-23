@@ -27,7 +27,7 @@ int main()
         scanf("%f",&Montantabonnement);
         while (Montantabonnement<0){
             printf("Donnees mal saisies! \n");
-            printf("Veillez ressaisir le Montant de l'abonnement (Elle doit etre supérieure a 0): \n");
+            printf("Veillez ressaisir le Montant de l'abonnement (Elle doit etre supï¿½rieure a 0): \n");
             scanf("%f",&Montantabonnement);
         }
     if ( KWh>=0 && KWh <=100 ){
@@ -57,3 +57,12 @@ int main()
     printf("\nLe montant de la facture est de %0.f Fr\n",Montantfacture);
 
 }
+
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/

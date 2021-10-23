@@ -46,9 +46,16 @@ int main()
     printf("La prime de distance est de %f !\n",primdist);
     printf("La prime d'anciennete est de %f !",primanc);
     printf("\n\n");
-    printf("La prime annuel du chaufeur N°%d avec pour Nom :%s est de %f !",num, nom, priman);
+    printf("La prime annuel du chaufeur Nï¿½%d avec pour Nom :%s est de %f !",num, nom, priman);
     printf("\n\n");
     }
 }
 
-
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/

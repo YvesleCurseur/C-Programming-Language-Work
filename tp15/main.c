@@ -44,7 +44,7 @@ int main()
             }else if (nbranc>2){
                 prime=salbape*20/100;
             }else{
-            printf("Veuillez resaisir le nombre d'annee  d'ancienneté !");
+            printf("Veuillez resaisir le nombre d'annee  d'anciennetï¿½ !");
             }
             salper = salbape + prime;
             printf("Salaire de base : %f \n", salbape);
@@ -53,7 +53,7 @@ int main()
             globalp = globalp + salbape;
             break;
         default:
-                printf("Données mal saisies !");
+                printf("Donnï¿½es mal saisies !");
             break;
             }
         }
@@ -62,4 +62,11 @@ int main()
     printf("Le salaire global pour les professeurs permanents : %f \n", globalp);
     }
 
-
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/

@@ -3,13 +3,13 @@
 
 int main()
 {
-    /* Déclarations */ int T[50];
-    /* tableau donné */ int N;
+    /* Dï¿½clarations */ int T[50];
+    /* tableau donnï¿½ */ int N;
     /* dimension */ int I;
     /* indice courant */ long SOM;
-    /* somme des éléments - type long à cause */
-    /* de la grandeur prévisible du résultat. */
-    /* Saisie des données */
+    /* somme des ï¿½lï¿½ments - type long ï¿½ cause */
+    /* de la grandeur prï¿½visible du rï¿½sultat. */
+    /* Saisie des donnï¿½es */
     printf("Dimension du tableau (max.50) : ");
     scanf("%d", &N );
         for (I=0; I<N; I++){
@@ -25,7 +25,16 @@ int main()
     /* Calcul de la somme */
         for(SOM=0, I=0; I<N; I++)
             SOM+= T[I];
-    /* Edition du résultat */
+    /* Edition du rï¿½sultat */
     printf("Somme de elements : %ld\n", SOM);
     return 0;
 }
+
+/* 
+###################################################################################################
+#    =    =                                 =                                           ====      #                                                                        
+#     =  =                                  =                                         =           #                                                             
+#      =                                    =                                         =           #                                                                
+#      =            =============           ======          ==============              ====      #                                                                                
+################################################################################################### 
+*/
